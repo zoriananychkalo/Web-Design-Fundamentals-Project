@@ -126,10 +126,6 @@ nav a.active {
   scrollbar-width: none;
 }
 
-.cards-row::-webkit-scrollbar {
-  display: none;
-}
-
 .biome-card {
   display: flex;
   flex-direction: column;
